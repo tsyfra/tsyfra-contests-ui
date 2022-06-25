@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.mantine-TextInput-defaultVariant:focus {
+    border-color: #000;
+}
